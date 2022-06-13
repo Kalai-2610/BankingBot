@@ -1,9 +1,12 @@
 import React from 'react'
 import Index from './src/chatbot/Index'
 
+
+
 const App = () => {
-  return (
-      <Index />
+  
+  return(
+    <Index />
   )
 }
 
